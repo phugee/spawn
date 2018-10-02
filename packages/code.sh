@@ -12,5 +12,6 @@ sudo apt-get install libxss1 libasound2 -y
 code --install-extension salesforce.salesforcedx-vscode
 code --install-extension eamodio.gitlens
 code --install-extension hookyqr.beautify
+code --install-extension chuckjonas.apex-pmd
 
 code --list-extensions --show-versions  
